@@ -1,4 +1,4 @@
-# CERTIFICACIÓN 3 - Framework BDD SauceDemo UI
+# CERTIFICACIÓN 2 - Framework BDD SauceDemo UI
 
 Proyecto de automatización de pruebas BDD (Behavior Driven Development) para la plataforma de e-commerce SauceDemo. El objetivo principal es evaluar flujos críticos de negocio mediante pruebas E2E, integrando lenguaje natural (Gherkin) con el patrón Page Object Model (POM) y generación de reportes avanzados.
 
